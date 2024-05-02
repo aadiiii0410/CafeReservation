@@ -1,0 +1,174 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./quality_food.svg",
+                "title": "QUALITY FOOD",
+                "description": "Experience an exquisite fusion of international flavors, crafted with premium local ingredients. Every dish at Gourmet Haven invites you to savor exceptional dining." 
+            },
+            {
+                "id": 2,
+                "image": "./super_taste.svg",
+                "title": "SUPER TASTE",
+                "description": "Embark on a culinary journey of unparalleled flavors at Gourmet Haven." 
+            },
+            {
+                "id": 3,
+                "image": "./fast_delivery.svg",
+                "title": "FAST DELIVERY",
+                "description": "Experience the convenience of swift, reliable delivery at your doorstep with our express service." 
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "https://vismaifood.com/storage/app/uploads/public/ad2/3c9/7ee/thumb__700_0_0_0_auto.jpg",
+                "title": "BUTTER CHICKEN",
+                "category": "Dinner"
+            },
+            {
+                "id": 2,
+                "image": "https://img.freepik.com/free-photo/vertical-shot-traditional-indian-paneer-butter-masala-cheese-cottage-curry-black-surface_181624-32001.jpg",
+                "title": "PANEER LABABDAR",
+                "category": "Dinner"
+            },
+            {
+                "id": 3,
+                "image": "https://img.freepik.com/premium-photo/chole-bhature-delectable-combination-spicy-chana-masala-vertical-mobile-wallpaper_896558-62433.jpg",
+                "title": "CHOLE BHATURE",
+                "category": "Breakfast"
+            },
+            {
+                "id": 4,
+                "image": "https://www.shutterstock.com/image-photo/gulab-jamun-260nw-605557499.jpg",
+                "title": "GULAB JAMUN",
+                "category": "DESSERT"
+            },
+            {
+                "id": 5,
+                "image": "https://i0.wp.com/www.sinamontales.com/dotcord/uploads/2016/06/of-sunday-afternoons-and-rajma-chawal.1024x1024.jpg?resize=1024%2C1541&ssl=1",
+                "title": "RAJMA CHAWAL",
+                "category": "Lunch"
+            },
+            {
+                "id": 6,
+                "image": "https://static.toiimg.com/thumb/84753069.cms?imgsize=263439&width=800&height=800",
+                "title": "MUSHROOM CHILLY",
+                "category": "Dinner"
+            },
+            {
+                "id": 7,
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjJlqaOwwcfuJAQKMs_oru3aDMKafZDDp_etzcvlMl1Q&s",
+                "title": "PANEER CHILLY",
+                "category": "Dinner"
+            },
+            {
+                "id": 8,
+                "image": "https://previews.123rf.com/images/rav06/rav062303/rav06230300004/199800132-chicken-tikka-with-chutney-in-a-plate-vertical-photo.jpg",
+                "title": "CHICKEN TIKKA",
+                "category": "Dinner"
+            }
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "SAN.png",
+                "name": "Sanjeev Kapoor",
+                "designation": "Founder & Head Chef"
+            },
+            {
+                "id": 2,
+                "image": "ran.png",
+                "name": "Ranveer Brar",
+                "designation": "Sous Chef"
+            },
+            {
+                "id": 3,
+                "image": "Ge.png",
+                "name": "George",
+                "designation": "Fast Food Chef"
+            },
+            {
+                "id": 4,
+                "image": "v.png",
+                "name": "Vikas Khanna",
+                "designation": "Senior Chef"
+            }
+        ],
+        "testimonials": [
+            {
+                "id": 1,
+                "image": "./review1.png",
+                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                "rating": 4,
+                "userName": "Jane Cooper"
+            },
+            {
+                "id": 2,
+                "image": "./review2.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 4.5,
+                "userName": "Esther Howard"
+            },
+            {
+                "id": 3,
+                "image": "./review3.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 5,
+                "userName": "Guy Hawkins"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "5",
+                "title": "Restaurants"
+            },
+            {
+                "id": 2,
+                "number": "30",
+                "title": "Chef In Kitchen"
+            },
+            {
+                "id": 3,
+                "number": "12",
+                "title": "Years Of Experience"
+            },
+            {
+                "id": 4,
+                "number": "80",
+                "title": "Food Dishes"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "TEAM",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "RESERVATION",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
